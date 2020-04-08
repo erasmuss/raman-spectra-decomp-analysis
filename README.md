@@ -7,8 +7,8 @@ Code to calculate decomposition of materials using Raman spectroscopy. For the c
  <img src="https://github.com/raman-noodles/Raman-noodles/blob/master/docs/Raman%20Noodles%20Logo.PNG">
 </p>
 
-## This is the UW DIRECT Spring 2019 Capstone Project GitHub Repo
-**Team members (alphabetical by first name): Brandon Kern, Elizabeth Rasmussen, Parker Steichen**
+## This is the GitHub Repo for work completed for NSF DIRECT Data Accelerator Fellowship 2020
+**Fellowship PI: Jim Pfaendtner; Fellowship Recipient: Elizabeth Rasmussen**
 
 ### Overall Project Objective
 This project identifies, and calculates decomposition in a Raman spectra to output rate data. Advantages to using this method are:
@@ -49,14 +49,13 @@ Next steps would include automatic baseline subtraction of spectra to decrease p
 
 
 ### Conclusion
-In conclusion our team successfully created a platform code base for researchers to visualize and analyze their Raman spectra in a fast, automated manor - reducing post-processing time by days and enabling future work to continue on a solid base of open source tools.
+In conclusion this is a platform code base for researchers to visualize and analyze their Raman spectra in a fast, automated manor - reducing post-processing time by days and enabling future work to continue on a solid base of open source tools.
 
   * This software has passed tests to sucessfully identify and analyze the identification of components in mixture Raman data.
 
   * This work sets up a free and user friendly platform for researchers to be able to analyze their own Raman Spectra.
 
 ### Acknowledgements
-* Project Sponsor: Igor Novosselov
-* Additional assistance: Dave Beck, and Kelly Thornton
+* Dave Beck and Jim Pfaendtner
 * Data sets from publicly available from Mendeley Data, “Raman Spectra of Formic Acid Gasification Products in Subcritical and Supercritical Water”
 * Only open source packages were used in this work.
